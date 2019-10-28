@@ -10,6 +10,7 @@ namespace NewCalc
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
