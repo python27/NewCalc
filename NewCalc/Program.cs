@@ -10,7 +10,6 @@ namespace NewCalc
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
         }
     }
 }
